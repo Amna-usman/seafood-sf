@@ -1,3 +1,3 @@
 # seafood-sf
-![seafood-sf](images/food%20site.png)
+![seafood](https://github.com/Amna-usman/seafood-sf/blob/main/food%20site.png?raw=true)
 

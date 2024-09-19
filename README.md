@@ -1,2 +1,3 @@
 # seafood-sf
-![seafood-sf](food site.png)
+![seafood-sf](images/food%20site.png)
+
